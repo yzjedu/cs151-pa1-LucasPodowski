@@ -1,3 +1,12 @@
+# Programmers: Lucas Podowski
+# Course:  CS151, Zelalem Yalew
+# Due Date: 10/9/2024
+# Programing Assignment: 1
+# Problem Statement: You are creating a text adventure game! In this game, the user gives input that affects the
+# path of the story. You must create a game that meets the requirements in the specification below.
+# Data In: user name, path choice, crystal choice, courage value, orb choice, escape number, illusion choice,
+# illusion number, and riddle number
+# Data Out: Monthly price
 # A short adventure game in the shattered realm
 
 # Introductory statement to get characters name and determine where they want to explore.
